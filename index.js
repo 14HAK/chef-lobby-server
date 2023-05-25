@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const recipes_person = require('./public/recipesPerson.json');
-// const recipes = require('./public/recipes.json');
+const recipes = require('./public/everyRecipes.json');
 
 require('dotenv').config();
 
@@ -26,9 +26,9 @@ app.get('/recipes_person', (req, res) => {
   res.send(recipes_person);
 });
 
-// app.get('/recipes_person/recipes', (req, res) => {
-//   res.send(recipes);
-// });
+app.get('/recipes_person/everyrecipes', (req, res) => {
+  res.send(recipes);
+});
 
 app.listen(port, () => {
   console.log(`Server Running on Port: http://localhost:${port}`);
