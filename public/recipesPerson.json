@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12345678",
+    "name": "John Smith",
+    "chef_img": "chef1.jpg",
+    "years_of_experience": 10,
+    "recipes_number": 50,
+    "likes": 1000
+  },
+  {
+    "id": "23456789",
+    "name": "Emily Johnson",
+    "chef_img": "chef2.jpg",
+    "years_of_experience": 7,
+    "recipes_number": 30,
+    "likes": 500
+  },
+  {
+    "id": "34567890",
+    "name": "Michael Brown",
+    "chef_img": "chef3.jpg",
+    "years_of_experience": 15,
+    "recipes_number": 80,
+    "likes": 1200
+  },
+  {
+    "id": "45678901",
+    "name": "Sophia Davis",
+    "chef_img": "chef4.jpg",
+    "years_of_experience": 5,
+    "recipes_number": 20,
+    "likes": 300
+  },
+  {
+    "id": "56789012",
+    "name": "Daniel Wilson",
+    "chef_img": "chef5.jpg",
+    "years_of_experience": 12,
+    "recipes_number": 70,
+    "likes": 900
+  },
+  {
+    "id": "67890123",
+    "name": "Olivia Thompson",
+    "chef_img": "chef6.jpg",
+    "years_of_experience": 9,
+    "recipes_number": 45,
+    "likes": 800
+  },
+  {
+    "id": "78901234",
+    "name": "William Rodriguez",
+    "chef_img": "chef7.jpg",
+    "years_of_experience": 8,
+    "recipes_number": 60,
+    "likes": 700
+  },
+  {
+    "id": "89012345",
+    "name": "Ava Garcia",
+    "chef_img": "chef8.jpg",
+    "years_of_experience": 6,
+    "recipes_number": 25,
+    "likes": 400
+  }
+]
