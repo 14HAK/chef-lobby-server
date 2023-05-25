@@ -1,0 +1,137 @@
+[
+  {
+    "id": "12345678",
+    "recipe_img": "recipe1.jpg",
+    "recipe_name": "Kung Pao Chicken",
+    "chef_name": "Chef Lee",
+    "ingredients": [
+      "Chicken breast",
+      "Soy sauce",
+      "Vinegar",
+      "Sugar",
+      "Garlic",
+      "Ginger",
+      "Peanuts",
+      "Chili peppers"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Kung Pao Chicken..."
+  },
+  {
+    "id": "23456789",
+    "recipe_img": "recipe2.jpg",
+    "recipe_name": "Egg Fried Rice",
+    "chef_name": "Chef Wang",
+    "ingredients": [
+      "Cooked rice",
+      "Eggs",
+      "Carrots",
+      "Peas",
+      "Green onions",
+      "Soy sauce",
+      "Oil"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Egg Fried Rice..."
+  },
+  {
+    "id": "34567890",
+    "recipe_img": "recipe3.jpg",
+    "recipe_name": "Mapo Tofu",
+    "chef_name": "Chef Liu",
+    "ingredients": [
+      "Tofu",
+      "Ground pork",
+      "Chili bean paste",
+      "Garlic",
+      "Ginger",
+      "Green onions",
+      "Soy sauce",
+      "Szechuan peppercorns"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Mapo Tofu..."
+  },
+  {
+    "id": "67890123",
+    "recipe_img": "recipe4.jpg",
+    "recipe_name": "Sweet and Sour Pork",
+    "chef_name": "Chef Zhang",
+    "ingredients": [
+      "Pork tenderloin",
+      "Pineapple chunks",
+      "Bell peppers",
+      "Onions",
+      "Vinegar",
+      "Ketchup",
+      "Sugar",
+      "Cornstarch"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Sweet and Sour Pork..."
+  },
+  {
+    "id": "45678901",
+    "recipe_img": "recipe4.jpg",
+    "recipe_name": "Sweet and Sour Pork",
+    "chef_name": "Chef Zhang",
+    "ingredients": [
+      "Pork tenderloin",
+      "Pineapple chunks",
+      "Bell peppers",
+      "Onions",
+      "Vinegar",
+      "Ketchup",
+      "Sugar",
+      "Cornstarch"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Sweet and Sour Pork..."
+  },
+  {
+    "id": "56789012",
+    "recipe_img": "recipe4.jpg",
+    "recipe_name": "Sweet and Sour Pork",
+    "chef_name": "Chef Zhang",
+    "ingredients": [
+      "Pork tenderloin",
+      "Pineapple chunks",
+      "Bell peppers",
+      "Onions",
+      "Vinegar",
+      "Ketchup",
+      "Sugar",
+      "Cornstarch"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Sweet and Sour Pork..."
+  },
+  {
+    "id": "78901234",
+    "recipe_img": "recipe4.jpg",
+    "recipe_name": "Sweet and Sour Pork",
+    "chef_name": "Chef Zhang",
+    "ingredients": [
+      "Pork tenderloin",
+      "Pineapple chunks",
+      "Bell peppers",
+      "Onions",
+      "Vinegar",
+      "Ketchup",
+      "Sugar",
+      "Cornstarch"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Sweet and Sour Pork..."
+  },
+  {
+    "id": "89012345",
+    "recipe_img": "recipe4.jpg",
+    "recipe_name": "Sweet and Sour Pork",
+    "chef_name": "Chef Zhang",
+    "ingredients": [
+      "Pork tenderloin",
+      "Pineapple chunks",
+      "Bell peppers",
+      "Onions",
+      "Vinegar",
+      "Ketchup",
+      "Sugar",
+      "Cornstarch"
+    ],
+    "cooking_process": "Step-by-step instructions on how to cook Sweet and Sour Pork..."
+  }
+]
