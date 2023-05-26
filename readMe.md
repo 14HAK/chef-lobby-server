@@ -16,3 +16,4 @@
 > second data call throw server using express.
 > second data is created named everyRecipe for details data about one persons.
 > then call or respond usig expree method.
+> backend post data related ans send any response....
