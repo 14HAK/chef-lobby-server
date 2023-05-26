@@ -26,8 +26,12 @@ app.get('/recipes_person', (req, res) => {
   res.send(recipes_person);
 });
 
-app.get('/recipes_person/everyrecipes', (req, res) => {
-  res.send(recipes);
+app.post(`/recipes_person/everyrecipes/:id`, (req, res) => {
+  const _id = parseInt(req.params.id);
+  let rec = recipes;
+  const findItem = rec.find((element) => parseInt(element.id) === _id);
+
+  res.send(findItem);
 });
 
 app.listen(port, () => {
