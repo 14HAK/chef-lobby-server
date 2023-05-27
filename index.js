@@ -2,7 +2,6 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const recipes_person = require('./public/recipesPerson.json');
-const recipes = require('./public/everyRecipes.json');
 
 require('dotenv').config();
 
@@ -28,7 +27,7 @@ app.get('/recipes_person', (req, res) => {
 
 app.post(`/recipes_person/everyrecipes/:id`, (req, res) => {
   const _id = parseInt(req.params.id);
-  let rec = recipes;
+  let rec = recipes_person;
   const findItem = rec.find((element) => parseInt(element.id) === _id);
 
   res.send(findItem);
